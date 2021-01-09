@@ -1,0 +1,728 @@
+
+ XFOIL   c>  
+.OPERi   c>  
+Enter Reynolds number   r>  
+ M  =    0.0000
+ Re =         0
+
+.OPERv   c>  
+.OPERv   c>   Calculating unit vorticity distributions ...
+--
+ Side 1 forced transition at x/c =  1.0000   81
+ Side 2 forced transition at x/c =  1.0000   81
+
+   6   rms: 0.1272E-05   max: 0.9550E-05   C at   81  2
+       a =  0.000      CL =  0.1222
+      Cm = -0.0241     CD =  0.01495   =>   CDf =  0.01021    CDp =  0.00475
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1 forced transition at x/c =  1.0000   81
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.1604E-05   max: 0.1644E-04   C at   81  2
+       a =  0.000      CL =  0.1236
+      Cm = -0.0242     CD =  0.01377   =>   CDf =  0.00929    CDp =  0.00448
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1 forced transition at x/c =  1.0000   81
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.1375E-05   max: -.8526E-05   D at   86  2
+       a =  0.000      CL =  0.1248
+      Cm = -0.0244     CD =  0.01286   =>   CDf =  0.00858    CDp =  0.00428
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1 forced transition at x/c =  1.0000   81
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.1629E-05   max: -.1445E-04   D at    4  1
+       a =  0.000      CL =  0.1260
+      Cm = -0.0245     CD =  0.01213   =>   CDf =  0.00801    CDp =  0.00412
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1 forced transition at x/c =  1.0000   81
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.1018E-05   max: 0.9682E-05   C at   81  2
+       a =  0.000      CL =  0.1269
+      Cm = -0.0247     CD =  0.01153   =>   CDf =  0.00753    CDp =  0.00399
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1 forced transition at x/c =  1.0000   81
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.1143E-05   max: 0.8618E-05   C at   81  2
+       a =  0.000      CL =  0.1278
+      Cm = -0.0248     CD =  0.01102   =>   CDf =  0.00714    CDp =  0.00389
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1 forced transition at x/c =  1.0000   81
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.4003E-05   max: -.2270E-04   D at   86  2
+       a =  0.000      CL =  0.1295
+      Cm = -0.0252     CD =  0.01005   =>   CDf =  0.00636    CDp =  0.00369
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.9866   80
+ Side 2 forced transition at x/c =  1.0000   81
+
+   4   rms: 0.1188E-05   max: 0.8349E-05   D at   85  2
+       a =  0.000      CL =  0.1603
+      Cm = -0.0310     CD =  0.00919   =>   CDf =  0.00583    CDp =  0.00337
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.9736   79
+ Side 2 forced transition at x/c =  1.0000   81
+
+   6   rms: 0.1235E-04   max: -.9103E-04   D at   80  1
+       a =  0.000      CL =  0.1888
+      Cm = -0.0362     CD =  0.00839   =>   CDf =  0.00541    CDp =  0.00298
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.9617   78
+ Side 2 forced transition at x/c =  1.0000   81
+
+   4   rms: 0.3614E-04   max: 0.2067E-03   D at   83  2
+       a =  0.000      CL =  0.2060
+      Cm = -0.0391     CD =  0.00772   =>   CDf =  0.00508    CDp =  0.00265
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.9500   77
+ Side 2 forced transition at x/c =  1.0000   81
+
+   5   rms: 0.1252E-04   max: -.9519E-04   C at   77  1
+       a =  0.000      CL =  0.2165
+      Cm = -0.0407     CD =  0.00718   =>   CDf =  0.00480    CDp =  0.00238
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.9383   76
+ Side 2 forced transition at x/c =  1.0000   81
+
+   6   rms: 0.1116E-05   max: -.9880E-05   C at   76  1
+       a =  0.000      CL =  0.2225
+      Cm = -0.0414     CD =  0.00674   =>   CDf =  0.00458    CDp =  0.00216
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.9264   75
+ Side 2 forced transition at x/c =  1.0000   81
+
+   4   rms: 0.1060E-04   max: -.1113E-03   C at   75  1
+       a =  0.000      CL =  0.2250
+      Cm = -0.0415     CD =  0.00638   =>   CDf =  0.00440    CDp =  0.00198
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.9139   75
+ Side 2 forced transition at x/c =  1.0000   81
+
+   4   rms: 0.1983E-05   max: -.1977E-04   C at   81  2
+       a =  0.000      CL =  0.2245
+      Cm = -0.0410     CD =  0.00608   =>   CDf =  0.00425    CDp =  0.00183
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.9017   74
+ Side 2 forced transition at x/c =  1.0000   81
+
+   4   rms: 0.2798E-05   max: -.2915E-04   D at   78  1
+       a =  0.000      CL =  0.2230
+      Cm = -0.0403     CD =  0.00583   =>   CDf =  0.00412    CDp =  0.00171
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.8900   73
+ Side 2 forced transition at x/c =  1.0000   81
+
+   4   rms: 0.2593E-05   max: -.2219E-04   D at   73  1
+       a =  0.000      CL =  0.2213
+      Cm = -0.0397     CD =  0.00562   =>   CDf =  0.00401    CDp =  0.00161
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.8789   72
+ Side 2 forced transition at x/c =  1.0000   81
+
+   4   rms: 0.1054E-05   max: -.1323E-04   C at   72  1
+       a =  0.000      CL =  0.2195
+      Cm = -0.0391     CD =  0.00544   =>   CDf =  0.00393    CDp =  0.00152
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.8685   71
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.3743E-04   max: -.5514E-03   C at   71  1
+       a =  0.000      CL =  0.2178
+      Cm = -0.0385     CD =  0.00529   =>   CDf =  0.00386    CDp =  0.00144
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.8580   71
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.7276E-04   max: 0.1122E-02   C at   71  1
+       a =  0.000      CL =  0.2163
+      Cm = -0.0380     CD =  0.00516   =>   CDf =  0.00379    CDp =  0.00137
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.8481   70
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.3416E-04   max: -.5447E-03   C at   70  1
+       a =  0.000      CL =  0.2149
+      Cm = -0.0376     CD =  0.00504   =>   CDf =  0.00373    CDp =  0.00131
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.8388   69
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.9808E-05   max: -.1582E-03   C at   69  1
+       a =  0.000      CL =  0.2137
+      Cm = -0.0372     CD =  0.00495   =>   CDf =  0.00369    CDp =  0.00125
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.8295   69
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.4190E-04   max: 0.7120E-03   C at   69  1
+       a =  0.000      CL =  0.2126
+      Cm = -0.0369     CD =  0.00486   =>   CDf =  0.00365    CDp =  0.00121
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.8208   68
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.5199E-05   max: -.7774E-04   C at   68  1
+       a =  0.000      CL =  0.2117
+      Cm = -0.0366     CD =  0.00477   =>   CDf =  0.00361    CDp =  0.00116
+
+.OPERv   c>  
+.OPERv   c>  
+--
+
+  10   rms: 0.4238E-02   max: -.7403E-01   C at   67  1
+       a =  0.000      CL =  0.2107
+      Cm = -0.0363     CD =  0.00471   =>   CDf =  0.00360    CDp =  0.00111
+ VISCAL:  Convergence failed
+ Type "!" to continue iterating
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.8040   67
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.4598E-05   max: -.7043E-04   D at   69  1
+       a =  0.000      CL =  0.2100
+      Cm = -0.0361     CD =  0.00464   =>   CDf =  0.00355    CDp =  0.00109
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.7964   66
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.1042E-05   max: -.1303E-04   C at   66  1
+       a =  0.000      CL =  0.2093
+      Cm = -0.0359     CD =  0.00458   =>   CDf =  0.00353    CDp =  0.00105
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.7886   66
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.4550E-05   max: -.9163E-04   D at   68  1
+       a =  0.000      CL =  0.2087
+      Cm = -0.0358     CD =  0.00453   =>   CDf =  0.00350    CDp =  0.00103
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.7816   65
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.1247E-05   max: -.1226E-04   C at   65  1
+       a =  0.000      CL =  0.2081
+      Cm = -0.0356     CD =  0.00448   =>   CDf =  0.00348    CDp =  0.00100
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.7744   65
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.3109E-05   max: -.5656E-04   D at   67  1
+       a =  0.000      CL =  0.2076
+      Cm = -0.0355     CD =  0.00443   =>   CDf =  0.00346    CDp =  0.00097
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.7679   64
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.9458E-06   max: -.1072E-04   D at   66  1
+       a =  0.000      CL =  0.2071
+      Cm = -0.0354     CD =  0.00440   =>   CDf =  0.00345    CDp =  0.00095
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.7611   64
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.1331E-05   max: -.2108E-04   D at   66  1
+       a =  0.000      CL =  0.2067
+      Cm = -0.0353     CD =  0.00435   =>   CDf =  0.00342    CDp =  0.00093
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.7549   63
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.1251E-05   max: 0.1221E-04   C at   63  1
+       a =  0.000      CL =  0.2062
+      Cm = -0.0351     CD =  0.00432   =>   CDf =  0.00341    CDp =  0.00091
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.7486   63
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.1261E-05   max: -.2258E-04   C at   63  1
+       a =  0.000      CL =  0.2059
+      Cm = -0.0351     CD =  0.00428   =>   CDf =  0.00339    CDp =  0.00089
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.7426   63
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.2690E-04   max: 0.4672E-03   C at   63  1
+       a =  0.000      CL =  0.2055
+      Cm = -0.0350     CD =  0.00426   =>   CDf =  0.00338    CDp =  0.00087
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.7370   62
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.8285E-06   max: -.1129E-04   C at   62  1
+       a =  0.000      CL =  0.2052
+      Cm = -0.0349     CD =  0.00423   =>   CDf =  0.00337    CDp =  0.00086
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.7312   62
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.1466E-05   max: 0.1951E-04   C at   62  1
+       a =  0.000      CL =  0.2050
+      Cm = -0.0349     CD =  0.00420   =>   CDf =  0.00335    CDp =  0.00084
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.7260   61
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.8535E-06   max: 0.1265E-04   C at   61  1
+       a =  0.000      CL =  0.2046
+      Cm = -0.0348     CD =  0.00417   =>   CDf =  0.00334    CDp =  0.00083
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.7208   61
+ Side 2 forced transition at x/c =  1.0000   81
+
+   2   rms: 0.7334E-04   max: -.1472E-02   D at   63  1
+       a =  0.000      CL =  0.2044
+      Cm = -0.0347     CD =  0.00414   =>   CDf =  0.00333    CDp =  0.00082
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.7156   61
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.2708E-05   max: 0.5006E-04   C at   61  1
+       a =  0.000      CL =  0.2042
+      Cm = -0.0347     CD =  0.00412   =>   CDf =  0.00332    CDp =  0.00081
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.7110   60
+ Side 2 forced transition at x/c =  1.0000   81
+
+   2   rms: 0.9688E-04   max: -.1955E-02   D at   62  1
+       a =  0.000      CL =  0.2040
+      Cm = -0.0346     CD =  0.00410   =>   CDf =  0.00331    CDp =  0.00079
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.7062   60
+ Side 2 forced transition at x/c =  1.0000   81
+
+   2   rms: 0.5808E-04   max: -.1015E-02   D at   62  1
+       a =  0.000      CL =  0.2038
+      Cm = -0.0346     CD =  0.00407   =>   CDf =  0.00329    CDp =  0.00078
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.7015   60
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.9211E-06   max: -.1400E-04   C at   60  1
+       a =  0.000      CL =  0.2036
+      Cm = -0.0346     CD =  0.00405   =>   CDf =  0.00328    CDp =  0.00077
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.6928   59
+ Side 2 forced transition at x/c =  1.0000   81
+
+   3   rms: 0.1014E-05   max: 0.1420E-04   C at   59  1
+       a =  0.000      CL =  0.2032
+      Cm = -0.0345     CD =  0.00401   =>   CDf =  0.00326    CDp =  0.00075
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.6849   59
+ Side 2  free  transition at x/c =  0.9921   80
+
+   3   rms: 0.2048E-04   max: 0.3739E-03   C at   59  1
+       a =  0.000      CL =  0.1991
+      Cm = -0.0336     CD =  0.00398   =>   CDf =  0.00324    CDp =  0.00074
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.6779   58
+ Side 2  free  transition at x/c =  0.9819   79
+
+   3   rms: 0.3254E-05   max: -.6620E-04   C at   58  1
+       a =  0.000      CL =  0.1949
+      Cm = -0.0326     CD =  0.00395   =>   CDf =  0.00322    CDp =  0.00073
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.6708   58
+ Side 2  free  transition at x/c =  0.9677   78
+
+   3   rms: 0.1048E-04   max: 0.1713E-03   C at   58  1
+       a =  0.000      CL =  0.1909
+      Cm = -0.0318     CD =  0.00393   =>   CDf =  0.00321    CDp =  0.00072
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.6641   57
+ Side 2  free  transition at x/c =  0.9483   77
+
+   3   rms: 0.2431E-05   max: -.3914E-04   C at   57  1
+       a =  0.000      CL =  0.1887
+      Cm = -0.0313     CD =  0.00392   =>   CDf =  0.00321    CDp =  0.00070
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.6566   57
+ Side 2  free  transition at x/c =  0.9266   76
+
+   3   rms: 0.9445E-05   max: 0.1601E-03   C at   57  1
+       a =  0.000      CL =  0.1893
+      Cm = -0.0316     CD =  0.00393   =>   CDf =  0.00325    CDp =  0.00069
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.6498   56
+ Side 2  free  transition at x/c =  0.9041   74
+
+   3   rms: 0.7413E-04   max: -.1573E-02   C at   74  2
+       a =  0.000      CL =  0.1910
+      Cm = -0.0321     CD =  0.00396   =>   CDf =  0.00329    CDp =  0.00067
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.6427   56
+ Side 2  free  transition at x/c =  0.8809   72
+
+   3   rms: 0.4026E-04   max: -.8219E-03   C at   72  2
+       a =  0.000      CL =  0.1926
+      Cm = -0.0325     CD =  0.00401   =>   CDf =  0.00336    CDp =  0.00065
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.6365   55
+ Side 2  free  transition at x/c =  0.8568   71
+
+   3   rms: 0.1262E-04   max: -.2519E-03   C at   71  2
+       a =  0.000      CL =  0.1940
+      Cm = -0.0329     CD =  0.00406   =>   CDf =  0.00343    CDp =  0.00063
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.6300   55
+ Side 2  free  transition at x/c =  0.8322   69
+
+   3   rms: 0.3065E-04   max: -.6336E-03   C at   69  2
+       a =  0.000      CL =  0.1950
+      Cm = -0.0332     CD =  0.00412   =>   CDf =  0.00350    CDp =  0.00061
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.6242   54
+ Side 2  free  transition at x/c =  0.8073   67
+
+   3   rms: 0.2018E-05   max: -.2456E-04   D at   67  2
+       a =  0.000      CL =  0.1958
+      Cm = -0.0334     CD =  0.00418   =>   CDf =  0.00358    CDp =  0.00060
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.6183   54
+ Side 2  free  transition at x/c =  0.7826   66
+
+   3   rms: 0.3857E-05   max: -.7989E-04   C at   66  2
+       a =  0.000      CL =  0.1965
+      Cm = -0.0335     CD =  0.00424   =>   CDf =  0.00366    CDp =  0.00058
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.6126   54
+ Side 2  free  transition at x/c =  0.7583   64
+
+   3   rms: 0.6972E-04   max: 0.1329E-02   C at   54  1
+       a =  0.000      CL =  0.1970
+      Cm = -0.0336     CD =  0.00430   =>   CDf =  0.00373    CDp =  0.00057
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.6074   53
+ Side 2  free  transition at x/c =  0.7348   62
+
+   3   rms: 0.4594E-05   max: -.9919E-04   C at   62  2
+       a =  0.000      CL =  0.1974
+      Cm = -0.0337     CD =  0.00435   =>   CDf =  0.00379    CDp =  0.00056
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.6019   53
+ Side 2  free  transition at x/c =  0.7120   61
+
+   3   rms: 0.2937E-05   max: -.4658E-04   C at   61  2
+       a =  0.000      CL =  0.1977
+      Cm = -0.0338     CD =  0.00440   =>   CDf =  0.00386    CDp =  0.00055
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.5969   52
+ Side 2  free  transition at x/c =  0.6902   59
+
+   3   rms: 0.9857E-05   max: -.2180E-03   C at   59  2
+       a =  0.000      CL =  0.1979
+      Cm = -0.0338     CD =  0.00446   =>   CDf =  0.00392    CDp =  0.00054
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.5920   52
+ Side 2  free  transition at x/c =  0.6692   58
+
+   3   rms: 0.2031E-05   max: -.2972E-04   D at   59  2
+       a =  0.000      CL =  0.1982
+      Cm = -0.0338     CD =  0.00450   =>   CDf =  0.00397    CDp =  0.00053
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.5869   52
+ Side 2  free  transition at x/c =  0.6497   56
+
+   3   rms: 0.1127E-05   max: -.1633E-04   C at   56  2
+       a =  0.000      CL =  0.1983
+      Cm = -0.0339     CD =  0.00455   =>   CDf =  0.00402    CDp =  0.00052
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.5824   51
+ Side 2  free  transition at x/c =  0.6308   55
+
+   3   rms: 0.1088E-05   max: 0.1780E-04   C at   55  2
+       a =  0.000      CL =  0.1985
+      Cm = -0.0339     CD =  0.00459   =>   CDf =  0.00407    CDp =  0.00052
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.5780   51
+ Side 2  free  transition at x/c =  0.6130   54
+
+   3   rms: 0.7241E-05   max: -.1497E-03   C at   54  2
+       a =  0.000      CL =  0.1986
+      Cm = -0.0339     CD =  0.00462   =>   CDf =  0.00411    CDp =  0.00051
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.5690   51
+ Side 2  free  transition at x/c =  0.5807   52
+
+   3   rms: 0.3027E-04   max: 0.5433E-03   C at   51  1
+       a =  0.000      CL =  0.1988
+      Cm = -0.0339     CD =  0.00470   =>   CDf =  0.00420    CDp =  0.00050
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.5610   50
+ Side 2  free  transition at x/c =  0.5524   50
+
+   3   rms: 0.5656E-05   max: 0.1203E-03   C at   50  2
+       a =  0.000      CL =  0.1990
+      Cm = -0.0339     CD =  0.00474   =>   CDf =  0.00426    CDp =  0.00049
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.5531   49
+ Side 2  free  transition at x/c =  0.5265   48
+
+   3   rms: 0.1244E-04   max: -.2709E-03   C at   48  2
+       a =  0.000      CL =  0.1991
+      Cm = -0.0339     CD =  0.00480   =>   CDf =  0.00432    CDp =  0.00048
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.5453   49
+ Side 2  free  transition at x/c =  0.5026   46
+
+   3   rms: 0.1356E-05   max: 0.2313E-04   C at   46  2
+       a =  0.000      CL =  0.1992
+      Cm = -0.0339     CD =  0.00484   =>   CDf =  0.00437    CDp =  0.00047
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.5382   48
+ Side 2  free  transition at x/c =  0.4799   45
+
+   3   rms: 0.4425E-05   max: -.9638E-04   C at   45  2
+       a =  0.000      CL =  0.1993
+      Cm = -0.0339     CD =  0.00488   =>   CDf =  0.00442    CDp =  0.00046
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.5311   48
+ Side 2  free  transition at x/c =  0.4591   43
+
+   3   rms: 0.9366E-06   max: -.1294E-04   C at   43  2
+       a =  0.000      CL =  0.1994
+      Cm = -0.0339     CD =  0.00492   =>   CDf =  0.00446    CDp =  0.00046
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.5245   47
+ Side 2  free  transition at x/c =  0.4393   42
+
+   3   rms: 0.1612E-05   max: -.2701E-04   C at   47  1
+       a =  0.000      CL =  0.1994
+      Cm = -0.0338     CD =  0.00496   =>   CDf =  0.00451    CDp =  0.00045
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.5182   47
+ Side 2  free  transition at x/c =  0.4211   41
+
+   3   rms: 0.2741E-05   max: -.5278E-04   C at   47  1
+       a =  0.000      CL =  0.1995
+      Cm = -0.0338     CD =  0.00499   =>   CDf =  0.00454    CDp =  0.00044
+
+.OPERv   c>  
+.OPERv   c>  
+--
+
+  10   rms: 0.2329E-02   max: -.5703E-01   C at   46  1
+       a =  0.000      CL =  0.1995
+      Cm = -0.0338     CD =  0.00502   =>   CDf =  0.00458    CDp =  0.00044
+ VISCAL:  Convergence failed
+ Type "!" to continue iterating
+
+.OPERv   c>  
+.OPERv   c>  
+--
+ Side 1  free  transition at x/c =  0.5062   46
+ Side 2  free  transition at x/c =  0.3882   38
+
+   3   rms: 0.1670E-05   max: 0.3072E-04   C at   46  1
+       a =  0.000      CL =  0.1996
+      Cm = -0.0338     CD =  0.00504   =>   CDf =  0.00461    CDp =  0.00043
+
+.OPERv   c>  

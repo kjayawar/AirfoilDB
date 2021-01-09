@@ -1,0 +1,289 @@
+
+ ===================================================
+  XFOIL Version 6.99
+  Copyright (C) 2000   Mark Drela, Harold Youngren
+
+  This software comes with ABSOLUTELY NO WARRANTY,
+    subject to the GNU General Public License.
+
+  Caveat computor
+ ===================================================
+
+ File  xfoil.def  not found
+
+   QUIT    Exit program
+
+  .OPER    Direct operating point(s)
+  .MDES    Complex mapping design routine
+  .QDES    Surface speed design routine
+  .GDES    Geometry design routine
+
+   SAVE f  Write airfoil to labeled coordinate file
+   PSAV f  Write airfoil to plain coordinate file
+   ISAV f  Write airfoil to ISES coordinate file
+   MSAV f  Write airfoil to MSES coordinate file
+   REVE    Reverse written-airfoil node ordering
+
+   LOAD f  Read buffer airfoil from coordinate file
+   NACA i  Set NACA 4,5-digit airfoil and buffer airfoil
+   INTE    Set buffer airfoil by interpolating two airfoils
+   NORM    Buffer airfoil normalization toggle
+   XYCM rr Change CM reference location, currently  0.25000 0.00000
+
+   BEND    Display structural properties of current airfoil
+
+   PCOP    Set current-airfoil panel nodes directly from buffer airfoil points
+   PANE    Set current-airfoil panel nodes ( 160 ) based on curvature
+  .PPAR    Show/change paneling
+
+  .PLOP    Plotting options
+
+   WDEF f  Write  current-settings file
+   RDEF f  Reread current-settings file
+   NAME s  Specify new airfoil name
+   NINC    Increment name version number
+
+   Z       Zoom    | (available in all menus)
+   U       Unzoom  | 
+
+ XFOIL   c>  
+ Labeled airfoil file.  Name:  AG03 (flat aft bottom)                          
+
+ Number of input coordinate points: 180
+ Counterclockwise ordering
+ Max thickness =     0.062376  at x =   0.250
+ Max camber    =     0.020084  at x =   0.327
+
+  LE  x,y  =  -0.00001   0.00022  |   Chord =   1.00001
+  TE  x,y  =   1.00000   0.00006  |
+
+ Current airfoil nodes set from buffer airfoil nodes ( 180 )
+
+ XFOIL   c>  
+ You are working with the buffer airfoil
+
+.GDES   c>  
+  i       x        y      angle
+   2   0.9949   0.0012    0.124
+   3   0.9850   0.0022    0.209
+   4   0.9733   0.0034    0.133
+   5   0.9609   0.0046    0.003
+   6   0.9484   0.0059   -0.038
+   7   0.9358   0.0071   -0.011
+   8   0.9231   0.0084   -0.007
+   9   0.9105   0.0097    0.007
+  10   0.8979   0.0109    0.015
+  11   0.8852   0.0122    0.033
+  12   0.8726   0.0134    0.038
+  13   0.8600   0.0146    0.039
+  14   0.8474   0.0159    0.052
+  15   0.8348   0.0171    0.054
+  16   0.8222   0.0183    0.054
+  17   0.8096   0.0195    0.063
+  18   0.7970   0.0207    0.060
+  19   0.7844   0.0218    0.059
+  20   0.7718   0.0230    0.059
+  21   0.7592   0.0241    0.060
+  22   0.7465   0.0252    0.060
+  23   0.7339   0.0264    0.050
+  24   0.7213   0.0275    0.059
+  25   0.7087   0.0285    0.054
+  26   0.6961   0.0296    0.062
+  27   0.6835   0.0307    0.062
+  28   0.6709   0.0317    0.067
+  29   0.6582   0.0328    0.076
+  30   0.6456   0.0338    0.067
+  31   0.6330   0.0348    0.089
+  32   0.6204   0.0358    0.076
+  33   0.6078   0.0367    0.089
+  34   0.5952   0.0377    0.099
+  35   0.5826   0.0386    0.090
+  36   0.5700   0.0395    0.112
+  37   0.5574   0.0404    0.108
+  38   0.5449   0.0412    0.122
+  39   0.5323   0.0420    0.117
+  40   0.5197   0.0428    0.131
+  41   0.5071   0.0436    0.131
+  42   0.4945   0.0444    0.131
+  43   0.4820   0.0451    0.159
+  44   0.4694   0.0457    0.144
+  45   0.4568   0.0464    0.159
+  46   0.4443   0.0470    0.159
+  47   0.4317   0.0476    0.163
+  48   0.4191   0.0481    0.173
+  49   0.4066   0.0486    0.182
+  50   0.3940   0.0491    0.186
+  51   0.3815   0.0495    0.186
+  52   0.3689   0.0499    0.205
+  53   0.3564   0.0502    0.214
+  54   0.3439   0.0505    0.210
+  55   0.3314   0.0508    0.242
+  56   0.3189   0.0509    0.247
+  57   0.3064   0.0511    0.256
+  58   0.2939   0.0512    0.275
+  59   0.2814   0.0512    0.294
+  60   0.2689   0.0511    0.314
+  61   0.2565   0.0510    0.333
+  62   0.2441   0.0508    0.362
+  63   0.2317   0.0506    0.387
+  64   0.2193   0.0502    0.408
+  65   0.2070   0.0498    0.462
+  66   0.1947   0.0493    0.485
+  67   0.1825   0.0486    0.537
+  68   0.1703   0.0479    0.580
+  69   0.1581   0.0470    0.651
+  70   0.1461   0.0460    0.710
+  71   0.1341   0.0449    0.798
+  72   0.1222   0.0436    0.877
+  73   0.1104   0.0421    1.012
+  74   0.0988   0.0404    1.123
+  75   0.0873   0.0386    1.301
+  76   0.0761   0.0365    1.515
+  77   0.0651   0.0341    1.730
+  78   0.0545   0.0315    2.045
+  79   0.0444   0.0287    2.436
+  80   0.0351   0.0256    2.977
+  81   0.0267   0.0223    3.594
+  82   0.0198   0.0191    4.051
+  83   0.0144   0.0162    4.327
+  84   0.0104   0.0135    4.447
+  85   0.0074   0.0112    4.536
+  86   0.0052   0.0092    4.643
+  87   0.0036   0.0075    4.764
+  88   0.0024   0.0060    5.016
+  89   0.0015   0.0046    5.416
+  90   0.0008   0.0033    6.271
+  91   0.0003   0.0022    7.850
+  92   0.0001   0.0010   11.218
+  93   0.0000  -0.0001   17.573
+  94   0.0003  -0.0012   27.365
+  95   0.0013  -0.0023   13.258
+  96   0.0028  -0.0034    7.834
+  97   0.0051  -0.0046    5.624
+  98   0.0081  -0.0057    4.355
+  99   0.0121  -0.0069    3.616
+ 100   0.0173  -0.0081    3.029
+ 101   0.0241  -0.0093    2.579
+ 102   0.0328  -0.0104    2.063
+ 103   0.0430  -0.0113    1.607
+ 104   0.0538  -0.0120    1.185
+ 105   0.0651  -0.0125    0.872
+ 106   0.0767  -0.0129    0.708
+ 107   0.0886  -0.0131    0.536
+ 108   0.1007  -0.0132    0.404
+ 109   0.1129  -0.0132    0.294
+ 110   0.1251  -0.0131    0.221
+ 111   0.1375  -0.0130    0.132
+ 112   0.1499  -0.0129    0.062
+ 113   0.1623  -0.0127    0.057
+ 114   0.1748  -0.0125    0.039
+ 115   0.1874  -0.0124    0.034
+ 116   0.1999  -0.0122   -0.007
+ 117   0.2125  -0.0120    0.007
+ 118   0.2252  -0.0118   -0.001
+ 119   0.2378  -0.0116   -0.001
+ 120   0.2505  -0.0114    0.003
+ 121   0.2632  -0.0113   -0.005
+ 122   0.2759  -0.0111    0.004
+ 123   0.2886  -0.0109   -0.005
+ 124   0.3013  -0.0107    0.005
+ 125   0.3140  -0.0105    0.000
+ 126   0.3267  -0.0103   -0.004
+ 127   0.3394  -0.0101    0.000
+ 128   0.3520  -0.0100    0.005
+ 129   0.3647  -0.0098   -0.004
+ 130   0.3774  -0.0096    0.000
+ 131   0.3901  -0.0094    0.000
+ 132   0.4027  -0.0092    0.005
+ 133   0.4154  -0.0090   -0.009
+ 134   0.4281  -0.0089    0.005
+ 135   0.4407  -0.0087    0.000
+ 136   0.4534  -0.0085   -0.000
+ 137   0.4661  -0.0083    0.004
+ 138   0.4787  -0.0081   -0.009
+ 139   0.4914  -0.0079    0.009
+ 140   0.5041  -0.0078   -0.005
+ 141   0.5167  -0.0076    0.000
+ 142   0.5294  -0.0074   -0.004
+ 143   0.5421  -0.0072    0.009
+ 144   0.5547  -0.0070   -0.004
+ 145   0.5674  -0.0068    0.000
+ 146   0.5801  -0.0067    0.000
+ 147   0.5927  -0.0065    0.000
+ 148   0.6054  -0.0063   -0.000
+ 149   0.6181  -0.0061    0.000
+ 150   0.6307  -0.0059    0.005
+ 151   0.6434  -0.0057   -0.009
+ 152   0.6560  -0.0055    0.004
+ 153   0.6687  -0.0054    0.000
+ 154   0.6814  -0.0052    0.004
+ 155   0.6940  -0.0050   -0.005
+ 156   0.7067  -0.0048   -0.005
+ 157   0.7194  -0.0046    0.009
+ 158   0.7320  -0.0044   -0.005
+ 159   0.7447  -0.0043   -0.000
+ 160   0.7574  -0.0041   -0.000
+ 161   0.7701  -0.0039   -0.000
+ 162   0.7827  -0.0037   -0.000
+ 163   0.7954  -0.0035    0.004
+ 164   0.8081  -0.0033   -0.009
+ 165   0.8208  -0.0032    0.013
+ 166   0.8335  -0.0030   -0.009
+ 167   0.8462  -0.0028    0.004
+ 168   0.8589  -0.0026   -0.005
+ 169   0.8716  -0.0024    0.004
+ 170   0.8843  -0.0022    0.000
+ 171   0.8970  -0.0020    0.000
+ 172   0.9097  -0.0019   -0.009
+ 173   0.9224  -0.0017    0.009
+ 174   0.9351  -0.0015   -0.004
+ 175   0.9478  -0.0013    0.007
+ 176   0.9604  -0.0011   -0.007
+ 177   0.9729  -0.0009    0.006
+ 178   0.9848  -0.0008   -0.009
+ 179   0.9948  -0.0006    0.015
+
+ Maximum panel corner angle = 27.365   at  i,x,y  =  94   0.0003  -0.0012
+
+ Enter corner angle criterion for refinement (deg):  13.683
+ Enter type of spline parameter (1=uniform, 2=arclength):   1
+ Enter refinement x limits:  -0.10000   1.10000
+ Number of points added:            4
+ Max thickness =     0.062376  at x =   0.250
+ Max camber    =     0.020116  at x =   0.327
+
+ Maximum panel corner angle = 10.952   at  i,x,y  =  96   0.0001  -0.0009
+
+.GDES   c>  
+ Current airfoil nodes set from buffer airfoil nodes ( 184 )
+
+.GDES   c>  
+ XFOIL   c>  
+ Blunt trailing edge.  Gap =  0.00121
+
+ Paneling parameters used...
+   Number of panel nodes       160
+   Panel bunching parameter    1.000
+   TE/LE panel density ratio   0.150
+   Refined-area/LE panel density ratio    0.200
+   Top    side refined area x/c limits  1.000 1.000
+   Bottom side refined area x/c limits  1.000 1.000
+
+ XFOIL   c>  
+ Output file exists.  Overwrite?  Y
+
+ XFOIL   c>  
+ XFOIL   c>  
+ You are working with the buffer airfoil
+
+.GDES   c>  
+Enter approx. new/old LE radius scaling ratio   r>  
+Enter blending distance/c from LE   r>   Max thickness =     0.062376  at x =   0.250
+ Max camber    =     0.020116  at x =   0.327
+
+ New LE radius = 0.00188
+
+.GDES   c>  
+ Buffer airfoil is not identical to current airfoil
+
+ XFOIL   c>  

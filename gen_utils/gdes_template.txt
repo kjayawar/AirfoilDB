@@ -1,0 +1,18 @@
+load {0}
+gdes
+cadd
+
+
+
+exec
+
+pane
+save {0}
+y
+
+gdes
+lera
+
+
+
+quit
