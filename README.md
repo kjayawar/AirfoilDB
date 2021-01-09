@@ -29,7 +29,7 @@ __cd*sqrt(RE)__ is used as a Reynolds normalized drag coefficient.
 
 ## Contributing
 Pull requests are welcome.   
-The method I've used to extract these details are listed in the gen_utils folder with a Readme.
+The method I've used to extract these details are listed in the gen_utils folder with a [dev guide](https://github.com/kjayawar/AirfoilDB/blob/main/gen_utils/dev_doc.md).
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
